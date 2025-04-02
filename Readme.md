@@ -7,9 +7,11 @@ A simple Flask application that predicts food type from an uploaded image and es
 - The server classifies the food type.
 - Displays the estimated calories for the predicted food.
 ## Photos
-| ![Image](images/1.png) | ![Image](images/2.png) |
-|------------------------|------------------------|
-| ![Image](images/3.png) | ![Image](images/4.png) |
+## Photos
+
+| ![Image](https://github.com/user-attachments/assets/77ac63e7-0b59-4767-a305-2d448dd79068) | ![Image](https://github.com/user-attachments/assets/dc12a245-48f1-45c7-9a41-373061bbd0cc) |
+|--------------------------------------------------------------|----------------------------------------------------------------|
+| ![Image](https://github.com/user-attachments/assets/8d272d15-5216-41a5-b963-ab587f725e3f) | ![Image](https://github.com/user-attachments/assets/ea173e7f-6e08-4920-bdc2-8bd863b605b0) |
 ## Requirements
 - Python 3.x
 - Flask
